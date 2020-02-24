@@ -1,5 +1,8 @@
 # live-chat
+Whatsapp style live chat.
+made with Vue.js - materializecss - firebase
 
+live site: https://whatsapp-panker.firebaseapp.com/
 ## Project setup
 ```
 npm install
